@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777596920 source:c:\users\lenovo\onedrive\Área de trabalho\projetos em c\solucaobaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

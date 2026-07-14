@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1776728206 source:c:\users\lenovo\onedrive\Área de trabalho\projetos em c\retangulo_projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
