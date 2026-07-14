@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1775246448 source:c:\users\lenovo\onedrive\Área de trabalho\projetos em c\terreno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
